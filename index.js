@@ -1,4 +1,4 @@
 module.exports = {
-    init: require('./lib/init'),
-    lvl: require('./lib/lvl'),
+    init: require('./lib/initPermissions'),
+    lvl: require('./lib/checkLvl'),
 };
