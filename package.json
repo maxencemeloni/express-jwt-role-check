@@ -1,6 +1,6 @@
 {
   "name": "express-jwt-role-check",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Express middleware to validate JWT and role lvl verification",
   "main": "index.js",
   "scripts": {
